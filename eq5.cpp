@@ -1,4 +1,5 @@
 #include<iostream>
+"Esta chido el codigo"
 using namespace std;
 struct alumno{
 int correlativo;
@@ -10,7 +11,7 @@ int main()
 {
 int opcion,n,i;
 alumno curso[12];
-
+"mmmm .-. "
 cout<<"\n   1 Ingresar datos";
 cout<<"\n   2 Ingresar notas";
 cout<<"\n   3 calculo de promedio";
