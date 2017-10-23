@@ -11,11 +11,12 @@ int main()
 {
 int opcion,n,i;
 alumno curso[12];
-"mmmm .-. "
+"mmmm .-. " "eso que -_-"
 cout<<"\n   1 Ingresar datos";
 cout<<"\n   2 Ingresar notas";
 cout<<"\n   3 calculo de promedio";
 cout<<"\n  ingrese la opcion a seleccionar: ";
+"Rebe :)"
 do{
 cin>>opcion;}
 while (opcion>=1 || opcion<=3);
